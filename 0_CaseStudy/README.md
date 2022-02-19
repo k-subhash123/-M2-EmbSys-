@@ -1,4 +1,4 @@
-# CaseStudu
+# CaseStudy
 
 ## 1)Calculator
  
