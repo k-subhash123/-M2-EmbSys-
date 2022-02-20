@@ -1,4 +1,4 @@
-# CaseStudy
+# CaseStudy 1
 
 ## 1)Calculator
  
@@ -20,3 +20,9 @@
               The main function of the display is to show the output to the user.
                
               
+# Casestudy 2
+
+## Automated Teller Machine
+
+
+<img width="636" alt="ATMb" src="https://user-images.githubusercontent.com/98833482/154854426-838719c8-e0f6-4709-b29d-2b5e904f6d73.png">
