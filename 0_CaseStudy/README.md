@@ -46,4 +46,9 @@
 
 ## 10)Display:
           Responsible for showing the instructions and the information on the screen to the user.
+          
+# Requirements 
+
+## High Level Requirements
+/s/s/s/s/
 
