@@ -33,3 +33,17 @@
            provide power to the system.
 ## 4)Display:
            It will show the information to the user.
+## 5)Ethernet:
+           provides the net to the entire system.
+## 6)Lcd driver:
+           An LCD controller drives alternating voltage across the two electrodes such that the average is zero (to avoid permanent alignment of crystals)
+## 7)Motor driver:
+           Motor drivers acts as an interface between the motors and the control circuits. Motor require high amount of current whereas the controller circuit works on low current signals. So the function of motor drivers is to take a low-current control signal and then turn it into a higher-current signal that can drive a motor.
+## 8)speaker driver:
+           Speaker driver cones are typically made from paper, plastic, or metal. This material moves back and forth and creates changes in the air pressure (sound waves) that ultimately arrive at your eardrum and cause it to move back and forth in a corresponding fashion. This causes you to hear the sound
+## 9)Relay drivers:
+           A relay driver circuit is a circuit which can drive, or operate, a relay so that it can function appropriately in a circuit. The driven relay can then operate as a switch in the circuit which can open or close, according to the needs of the circuit and its operation.
+
+## 10)Display:
+          Responsible for showing the instructions and the information on the screen to the user.
+
