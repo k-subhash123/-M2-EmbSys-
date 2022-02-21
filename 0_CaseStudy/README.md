@@ -67,3 +67,6 @@
 5) The card will be retained in the machine until the customer indicates that he/she desires no further transactions.
 
 
+# SWOT ANALYSIS
+
+<img width="414" alt="SWOT" src="https://user-images.githubusercontent.com/98833482/154945325-8a403ada-7bd6-4a1f-92c8-8646a94e6260.png">
