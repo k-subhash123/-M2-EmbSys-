@@ -8,14 +8,11 @@
 ### Details about the Componentes used
 
 ## 1)Keyboard:
-              Used by the user to give their Inputs to the microcontroller.
-              
+              Used by the user to give their Inputs to the microcontroller.              
 ## 2)PowerSupply:
-              Provides the power required for the system.
-              
+              Provides the power required for the system.    
 ## 3)Microcontroller:
               It will take the inpus from the Keyboard and proceess them and then sends the output.
-
 ## 4)Display:
               The main function of the display is to show the output to the user.
                
@@ -30,12 +27,9 @@
 
 ## 1)keypad:
            Available for the user to provide their inputs.
-
 ## 2)Card Reader:
            It will read the inputs of the card provided by the user.
-
 ## 3)Power supply:
            provide power to the system.
-
 ## 4)Display:
            It will show the information to the user.
