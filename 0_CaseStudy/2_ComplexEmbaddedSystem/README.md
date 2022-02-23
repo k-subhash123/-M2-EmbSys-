@@ -22,9 +22,10 @@ Motor drivers acts as an interface between the motors and the control circuits. 
 Speaker driver cones are typically made from paper, plastic, or metal. This material moves back and forth and creates changes in the air pressure (sound waves) that ultimately arrive at your eardrum and cause it to move back and forth in a corresponding fashion. This causes you to hear the sound
 ## 9)Relay drivers:
 A relay driver circuit is a circuit which can drive, or operate, a relay so that it can function appropriately in a circuit. The driven relay can then operate as a switch in the circuit which can open or close, according to the needs of the circuit and its operation.
-
 ## 10)Display:
 Responsible for showing the instructions and the information on the screen to the user.
+## 11)Microcontroller:
+Microcontroller is a device the can operate all the functions.
           
 # Requirements 
 
