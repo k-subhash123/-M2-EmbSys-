@@ -32,22 +32,22 @@
 
 | **ID** | **Description** |
 | --- | --- |
-| HL1 | A customer shell be able to make a cash withdrawl. |
-| HL2 | A customer shell be able to make a deposit to any account linked to the card. |
-| HL3 | It shell  make available to chech their account balance. |
-| HL4 | A customer shell be able to make a transfer of money between any two accounts linked to the card. |
-| HL5 | The ATM shell communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
+| HLR1 | A customer shell be able to make a cash withdrawl. |
+| HLR2 | A customer shell be able to make a deposit to any account linked to the card. |
+| HLR3 | It shell  make available to chech their account balance. |
+| HLR4 | A customer shell be able to make a transfer of money between any two accounts linked to the card. |
+| HLR5 | The ATM shell communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
 
 
 ## Low Level Requirements
 
-| **ID** | **Description** |
-| --- | --- |
-| 1 | The system should save the each transaction data of the users |
-| 2 | The Atm should be accessable for cash deposite without a atm card. |  
-| 3 | The ATM will provide the customer with a printed receipt for each successful transaction. |
-| 4 | The ATM will communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
-| 5 | The card will be retained in the machine until the customer indicates that he/she desires no further transactions. |
+| **ID(HLR)** | **ID** | **Description** |
+| --- | --- | --- |
+| HLR1.1 | LLR1 | The system shell save the each transaction data of the users |
+| HLR2.1 | LLR2 | The Atm shell be accessable for cash deposite without a atm card. |  
+| HLR3.1 | LLR3 | The ATM shell provide the customer with a printed receipt for each successful transaction. |
+| HLR4.1 | LLR4 | The ATM shell communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
+| HLR5.1 | LLR5 | The card shell be retained in the machine until the customer indicates that he/she desires no further transactions. |
 
 
 # SWOT ANALYSIS
