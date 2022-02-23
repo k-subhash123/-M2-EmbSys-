@@ -1,8 +1,56 @@
-## Automated Teller Machine
+# CaseStudy 2
 
+# Table of contents
+## 1)About the ATM
+i.Description
+
+ii.Identifying Features
+## 2)Requirements
+i.High Level Requirements
+
+ii.Low Level Requirements
+## 3) Work Flow Diagram
+## 4) Details about the components
+## 5) SWOT Analysis
+## 6) 5W's And 1H
+
+# 1)About the ATM
+
+## i)Description
+
+By using an automated teller machine or ATM we can perform different financial transactions such as cash deposits, withdrawals, transfer funds, information of account, ATM,PIN change, and also linking the Aadhaar number to the bank account so that the interaction between the bank staff and the customer can be reduced.
+
+## ii)Identifying Featutes
+
+
+# 2)Requirements
+
+## High Level Requirements
+
+| **ID** | **Description** |
+| --- | --- |
+| HLR1 | A customer shell be able to make a cash withdrawl. |
+| HLR2 | A customer shell be able to make a deposit to any account linked to the card. |
+| HLR3 | It shell  make available to chech their account balance. |
+| HLR4 | A customer shell be able to make a transfer of money between any two accounts linked to the card. |
+| HLR5 | The ATM shell communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
+
+
+## Low Level Requirements
+
+| **ID(HLR)** | **ID** | **Description** |
+| --- | --- | --- |
+| HLR1.1 | LLR1 | The system shell save the each transaction data of the users |
+| HLR2.1 | LLR2 | The Atm shell be accessable for cash deposite without a atm card. |  
+| HLR3.1 | LLR3 | The ATM shell provide the customer with a printed receipt for each successful transaction. |
+| HLR4.1 | LLR4 | The ATM shell communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
+| HLR5.1 | LLR5 | The card shell be retained in the machine until the customer indicates that he/she desires no further transactions. |
+
+# 3)Work Flow Diagram
 
 <img width="636" alt="ATMb" src="https://user-images.githubusercontent.com/98833482/154854426-838719c8-e0f6-4709-b29d-2b5e904f6d73.png">
 
+# 4)Details about the components
 
 ## 1)keypad:
 * Available for the user to provide their inputs.
@@ -27,31 +75,8 @@ Responsible for showing the instructions and the information on the screen to th
 ## 11)Microcontroller:
 Microcontroller is a device the can operate all the functions.
           
-# Requirements 
-
-## High Level Requirements
-
-| **ID** | **Description** |
-| --- | --- |
-| HLR1 | A customer shell be able to make a cash withdrawl. |
-| HLR2 | A customer shell be able to make a deposit to any account linked to the card. |
-| HLR3 | It shell  make available to chech their account balance. |
-| HLR4 | A customer shell be able to make a transfer of money between any two accounts linked to the card. |
-| HLR5 | The ATM shell communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
-
-
-## Low Level Requirements
-
-| **ID(HLR)** | **ID** | **Description** |
-| --- | --- | --- |
-| HLR1.1 | LLR1 | The system shell save the each transaction data of the users |
-| HLR2.1 | LLR2 | The Atm shell be accessable for cash deposite without a atm card. |  
-| HLR3.1 | LLR3 | The ATM shell provide the customer with a printed receipt for each successful transaction. |
-| HLR4.1 | LLR4 | The ATM shell communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
-| HLR5.1 | LLR5 | The card shell be retained in the machine until the customer indicates that he/she desires no further transactions. |
-
-
-# SWOT ANALYSIS
+# 5)SWOT ANALYSIS
 
 <img width="414" alt="SWOT" src="https://user-images.githubusercontent.com/98833482/154945325-8a403ada-7bd6-4a1f-92c8-8646a94e6260.png">
+
 
