@@ -1,11 +1,11 @@
 # CaseStudy 1
 # Table of contents
 ## 1)About the calculator
-       i.Description
-      ii.Identifying Features
+i.Description
+ii.Identifying Features
 ## 2)Requirements
-       i.High Level Requirements
-      ii.Low Level Requirements
+i.High Level Requirements
+ii.Low Level Requirements
 ## 3) Work Flow Diagram
 ## 4) Details about the components
 ## 5) SWOT Analysis
