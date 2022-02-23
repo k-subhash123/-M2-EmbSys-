@@ -1,1 +1,1 @@
-|komma|subhash|chandra|
+| komma | subhash | chandra |
