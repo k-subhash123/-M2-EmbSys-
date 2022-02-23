@@ -58,7 +58,7 @@ A calculator is a machine which allows people to do math operations more easily.
 ## 4)Display:
               The main function of the display is to show the output to the user.
               
-# SWOT Analysis
+# 5)SWOT Analysis
 
 <img width="435" alt="calculator swot" src="https://user-images.githubusercontent.com/98833482/155310828-2568f620-5ec9-4bc4-8ece-34d2ec3040ab.png">
 
