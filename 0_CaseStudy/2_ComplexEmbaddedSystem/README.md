@@ -5,7 +5,7 @@
 
 
 ## 1)keypad:
-           Available for the user to provide their inputs.
+           * Available for the user to provide their inputs.
 ## 2)Card Reader:
            It will read the inputs of the card provided by the user.
 ## 3)Power supply:
