@@ -1,7 +1,5 @@
 # CaseStudy 1
-
 # Table of contents
-
 ## 1)About the calculator
        i.Description
       ii.Identifying Features
