@@ -32,20 +32,22 @@
 
 | **ID** | **Description** |
 | --- | --- |
-| 1 | A customer must be able to make a cash withdrawl. |
-| 2 | A customer must be able to make a deposit to any account linked to the card. |
-| 3 | Make available to chech their account balance. |
-| 4 | A customer must be able to make a transfer of money between any two accounts linked to the card. |
-| 5 | The ATM will communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
+| HL1 | A customer shell be able to make a cash withdrawl. |
+| HL2 | A customer shell be able to make a deposit to any account linked to the card. |
+| HL3 | It shell  make available to chech their account balance. |
+| HL4 | A customer shell be able to make a transfer of money between any two accounts linked to the card. |
+| HL5 | The ATM shell communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
 
 
 ## Low Level Requirements
 
-1) The system should save the each transaction data of the users.
-2) The Atm should be accessable for cash deposite without a atm card.
-3) The ATM will provide the customer with a printed receipt for each successful transaction.
-4) The ATM will communicate each transaction to the bank and obtain verification that it was allowed by the bank.
-5) The card will be retained in the machine until the customer indicates that he/she desires no further transactions.
+| **ID** | **Description** |
+| --- | --- |
+| 1 | The system should save the each transaction data of the users |
+| 2 | The Atm should be accessable for cash deposite without a atm card. |  
+| 3 | The ATM will provide the customer with a printed receipt for each successful transaction. |
+| 4 | The ATM will communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
+| 5 | The card will be retained in the machine until the customer indicates that he/she desires no further transactions. |
 
 
 # SWOT ANALYSIS
