@@ -70,19 +70,19 @@ A calculator is a machine which allows people to do math operations more easily.
 
 
 ### Who
-It is restricted only to the person who knows the PIN. Thus, if the customers keep the PIN confidential, no one other than the customer can use the ATM
+Everyone can use it to do their calculations faster.
 
 ### What:
-It's an automatic teller machine to accepts deposits and dispenses cash.
+It's a calculator which is used to do calculations.
 
 ### When:
-It is available 24X7, 365 days.
+Knowadays it's usefull in every one's daytoday life.
 
 ### Where:
-It is available around the world.
+It is available every where in the stores.
 
 ### Why:
-To make available all the bank services like cash deposite and withdraw.
+To make easier to do complex calculations.
 
 ### How:
-The application was developed in C language to prevent the complexity and to make it simple. 
+It was developed by using ATmega328 microcontroller  to make calculations simple. 
