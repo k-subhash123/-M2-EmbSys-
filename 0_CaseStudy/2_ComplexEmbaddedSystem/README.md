@@ -16,7 +16,7 @@ ii.Low Level Requirements
 
 # 1)About the ATM
 
-## i)Description
+## i) Description
 
 By using an automated teller machine or ATM we can perform different financial transactions such as cash deposits, withdrawals, transfer funds, information of account, ATM,PIN change, and also linking the Aadhaar number to the bank account so that the interaction between the bank staff and the customer can be reduced.
 
@@ -32,7 +32,7 @@ By using an automated teller machine or ATM we can perform different financial t
 * Cash withdrawal.
 
 
-# 2)Requirements
+# 2) Requirements
 
 ## High Level Requirements
 
@@ -55,11 +55,11 @@ By using an automated teller machine or ATM we can perform different financial t
 | HLR4.1 | LLR4 | The ATM shell communicate each transaction to the bank and obtain verification that it was allowed by the bank. |
 | HLR5.1 | LLR5 | The card shell be retained in the machine until the customer indicates that he/she desires no further transactions. |
 
-# 3)Work Flow Diagram
+# 3) Work Flow Diagram
 
 <img width="636" alt="ATMb" src="https://user-images.githubusercontent.com/98833482/154854426-838719c8-e0f6-4709-b29d-2b5e904f6d73.png">
 
-# 4)Details about the components
+# 4) Details about the components
 
 ## keypad:
 * Available for the user to provide their inputs.
@@ -84,15 +84,27 @@ Responsible for showing the instructions and the information on the screen to th
 ## Microcontroller:
 Microcontroller is a device the can operate all the functions.
           
-# 5)SWOT ANALYSIS
+# 5) SWOT ANALYSIS
 
 <img width="414" alt="SWOT" src="https://user-images.githubusercontent.com/98833482/154945325-8a403ada-7bd6-4a1f-92c8-8646a94e6260.png">
 
 
-# 6)5W's and 1H
+# 6) 5W's and 1H
 
-### when:
-### Where:
-### Why:
+ ### Who
+It is restricted only to the person who knows the PIN. Thus, if the customers keep the PIN confidential, no one other than the customer can use the ATM
+
 ### What:
+It's an automatic teller machine to accepts deposits and dispenses cash.
+
+### When:
+It is available 24X7, 365 days.
+
+### Where:
+It is available around the world.
+
+### Why:
+To make available all the bank services like cash deposite and withdraw.
+
 ### How:
+The application was developed in C language to prevent the complexity and to make it simple.
