@@ -22,6 +22,15 @@ By using an automated teller machine or ATM we can perform different financial t
 
 ## ii)Identifying Featutes
 
+* Transfer funds between linked bank accounts.
+* Receive account balance.
+* Prints recent transactions list.
+* Change your pin.
+* Deposit your cash.
+* Prepaid mobile recharge.
+* Bill payments.
+* Cash withdrawal.
+
 
 # 2)Requirements
 
