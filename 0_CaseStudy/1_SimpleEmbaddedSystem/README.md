@@ -12,7 +12,10 @@ ii.Low Level Requirements
 ## 4) Details about the components
 ## 5) SWOT Analysis
 ## 6) 5W's And 1H
-      
+
+
+
+
 # 1)About the calculator
 
 ## i.Description About Calculator
