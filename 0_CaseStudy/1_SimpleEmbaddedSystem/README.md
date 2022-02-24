@@ -28,7 +28,7 @@ A calculator is a machine which allows people to do math operations more easily.
 * The simplest calculators can do only addition, subtraction, multiplication, and division.
 * More sophisticated calculators can handle exponent ial operations, roots, logarithm s, trigonometric functions, and hyperbolic functions.
 
-# Requirements
+# 2)Requirements
 
 ## High Level Reuirements
 
