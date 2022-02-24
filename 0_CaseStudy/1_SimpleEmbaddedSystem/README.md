@@ -66,3 +66,10 @@ A calculator is a machine which allows people to do math operations more easily.
 <img width="435" alt="calculator swot" src="https://user-images.githubusercontent.com/98833482/155310828-2568f620-5ec9-4bc4-8ece-34d2ec3040ab.png">
 
 
+# 6)5W's and 1H
+
+### where:
+### When:
+### Why:
+### What:
+### How:
