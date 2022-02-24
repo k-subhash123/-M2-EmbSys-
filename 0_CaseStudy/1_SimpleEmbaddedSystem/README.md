@@ -8,15 +8,15 @@ ii.Identifying Features
 i.High Level Requirements
 
 ii.Low Level Requirements
-## 3) Work Flow Diagram
-## 4) Details about the components
-## 5) SWOT Analysis
-## 6) 5W's And 1H
+## 3)Work Flow Diagram
+## 4)Details about the components
+## 5)SWOT Analysis
+## 6)5W's And 1H
 
 
 
 
-# 1)About the calculator
+# 1) About the calculator
 
 ## i.Description About Calculator
 
@@ -28,7 +28,7 @@ A calculator is a machine which allows people to do math operations more easily.
 * The simplest calculators can do only addition, subtraction, multiplication, and division.
 * More sophisticated calculators can handle exponent ial operations, roots, logarithm s, trigonometric functions, and hyperbolic functions.
 
-# 2)Requirements
+# 2) Requirements
 
 ## High Level Reuirements
 
@@ -61,15 +61,28 @@ A calculator is a machine which allows people to do math operations more easily.
 ## 4)Display:
               The main function of the display is to show the output to the user.
               
-# 5)SWOT Analysis
+# 5) SWOT Analysis
 
 <img width="435" alt="calculator swot" src="https://user-images.githubusercontent.com/98833482/155310828-2568f620-5ec9-4bc4-8ece-34d2ec3040ab.png">
 
 
-# 6)5W's and 1H
+# 6) 5W's and 1H
 
-### where:
-### When:
-### Why:
+
+### Who
+It is restricted only to the person who knows the PIN. Thus, if the customers keep the PIN confidential, no one other than the customer can use the ATM
+
 ### What:
+It's an automatic teller machine to accepts deposits and dispenses cash.
+
+### When:
+It is available 24X7, 365 days.
+
+### Where:
+It is available around the world.
+
+### Why:
+To make available all the bank services like cash deposite and withdraw.
+
 ### How:
+The application was developed in C language to prevent the complexity and to make it simple. 
