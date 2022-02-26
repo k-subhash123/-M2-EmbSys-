@@ -1,3 +1,4 @@
+# Plant Irrigation System using Capacitive Moisture Sensor
 # Description
 
 Irrigation is the most important practice and most intensive task in daily agriculture sector. To know when and how much to water the plants are two important aspects of irrigation. This can be done automatically using sensors and it can be determined when plants may need water. 
@@ -50,11 +51,21 @@ This project is implemented by using a microcontroller atmega328p, programmed li
 
 | **ID** | **Descripion** |
 | --- | --- |
-| HLR1 |  It shell detect the moisture of the soil.     | 
-| HLR2 |  It shell communicate the input to the microcontroler     | 
-| HLR3 |       | 
-| HLR4 |       | 
-| HLR5 |       | 
+| HLR1 |  It shell detect the moisture of the soil. | 
+| HLR2 |  It shell communicate the input to the microcontroler. | 
+| HLR3 |  It shell run the motor to provide water to needed  plants automatically. | 
+| HLR4 |  It shell have a microcontroller. | 
+
+## Low Level Requirements
+
+| **HLR(ID)** | **LLR((ID)** | **Descripion** |
+| --- | --- | --- |
+| HLR1.1 | LLR1 |  It shell have a soil moisture sensor to detect the soil moisrture. | 
+| HLR2.1 | LLR2 | It shell have a automatic controlling unit to perform all the tasks. | 
+| HLR3.1 | LLR3 | It shell stop providing water to the plants after the soil moisture is increased. | 
+| HLR4.1 | LLR4 | It shell have a ATmega328 microcontroller,relay and other components required. | 
+
+
 
 
 
