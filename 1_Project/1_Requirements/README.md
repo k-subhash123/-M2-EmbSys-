@@ -1,5 +1,25 @@
 # Plant Irrigation System using Capacitive Moisture Sensor
-# Description
+
+# Table of contents
+
+## 1)About  the project
+
+###  i)Description
+
+### ii)Components Used
+
+## 2)Requirements
+
+###  i)High Level Requirements
+### ii)Low Level Requirements
+
+## 3)SWOT Analysis
+## 4)5W's AND 1H
+
+
+# 1)About The Project
+
+## i)Description
 
 Irrigation is the most important practice and most intensive task in daily agriculture sector. To know when and how much to water the plants are two important aspects of irrigation. This can be done automatically using sensors and it can be determined when plants may need water. 
 
@@ -7,7 +27,7 @@ This plant irrigation system project is intended to observe the moisture content
 
 This project is implemented by using a microcontroller atmega328p, programmed like to collect input signals that measure the moisture content of soil through sensing arrangement. Because the capacitive moisture sensor is removed out from the water, the LCD indicates the dry condition. The microcontroller produces an output that drives a relay and operates the water pump on receiving the signal. Hence the system reduces human intervention and provides required irrigation to the field.
 
-# Components Used
+## ii)Components Used
 
 •	Atmega 328p Microcontroller
 
@@ -45,9 +65,9 @@ This project is implemented by using a microcontroller atmega328p, programmed li
 
 •	IC Sockets
 
-# Requirements
+# 2)Requirements
 
-## High Level Requirements
+## i)High Level Requirements
 
 | **ID** | **Descripion** |
 | --- | --- |
@@ -56,7 +76,7 @@ This project is implemented by using a microcontroller atmega328p, programmed li
 | HLR3 |  It shell run the motor to provide water to needed  plants automatically. | 
 | HLR4 |  It shell have a microcontroller. | 
 
-## Low Level Requirements
+## ii)Low Level Requirements
 
 | **HLR(ID)** | **LLR((ID)** | **Descripion** |
 | --- | --- | --- |
@@ -65,12 +85,12 @@ This project is implemented by using a microcontroller atmega328p, programmed li
 | HLR3.1 | LLR3 | It shell stop providing water to the plants after the soil moisture is increased. | 
 | HLR4.1 | LLR4 | It shell have a ATmega328 microcontroller,relay and other components required. | 
 
-# SWOT ANALYSIS
+# 3)SWOT ANALYSIS
 
 <img width="533" alt="SWOT ANALYSIS" src="https://user-images.githubusercontent.com/98833482/155832779-6e556281-a41d-4d6c-bb48-036637b24758.png">
 
 
-# 5W'S AND 1H
+# 4)5W'S AND 1H
 
 ## WHAT:
 Its an automatic plant watering system.
