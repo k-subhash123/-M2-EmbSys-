@@ -70,7 +70,26 @@ This project is implemented by using a microcontroller atmega328p, programmed li
 <img width="533" alt="SWOT ANALYSIS" src="https://user-images.githubusercontent.com/98833482/155832779-6e556281-a41d-4d6c-bb48-036637b24758.png">
 
 
+# 5W'S AND 1H
 
+## WHAT:
+Its an automatic plant watering system.
+
+## WHETE:
+It is used to provide water to the needed plants.
+
+## WHY:
+To make eaiser for the people to feed their plants.
+
+## WHEN:
+It is available 24/7 autometically.
+
+## WHO:
+It would be more helpful for the farmers if they implemented it in a large scale.
+
+
+## HOW:
+Its is an automatic system based on  moisture of the soil of the plants it provide water to the plants.
 
 
 
