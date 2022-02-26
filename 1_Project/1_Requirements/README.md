@@ -65,6 +65,11 @@ This project is implemented by using a microcontroller atmega328p, programmed li
 | HLR3.1 | LLR3 | It shell stop providing water to the plants after the soil moisture is increased. | 
 | HLR4.1 | LLR4 | It shell have a ATmega328 microcontroller,relay and other components required. | 
 
+# SWOT ANALYSIS
+
+<img width="533" alt="SWOT ANALYSIS" src="https://user-images.githubusercontent.com/98833482/155832779-6e556281-a41d-4d6c-bb48-036637b24758.png">
+
+
 
 
 
