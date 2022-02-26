@@ -9,22 +9,39 @@ This project is implemented by using a microcontroller atmega328p, programmed li
 # Components Used
 
 •	Atmega 328p Microcontroller
+
 •	capacitive moisture sensor
+
 •	Pump Motor
+
 •	Relay
+
 •	Relay Driver IC
+
 •	Vtg Regulator IC
+
 •	Resistors
+
 •	Capacitors
+
 •	Transistors
+
 •	Cables and Connectors
+
 •	Diodes
+
 •	PCB and Breadboards
+
 •	LED
+
 •	Transformer/Adapter
+
 •	Push Buttons
+
 •	Switch
-•	IC 
+
+•	IC
+
 •	IC Sockets
 
 # Requirements
