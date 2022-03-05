@@ -1,6 +1,10 @@
 # Behavioural Diagram
 
-<img width="511" alt="diagram" src="https://user-images.githubusercontent.com/98833482/155838503-eba401b0-76c5-40cf-a923-858e2a365b09.png">
+<img width="534" alt="plant irrigation system" src="https://user-images.githubusercontent.com/98833482/156869529-5f89ec23-886f-423a-8f95-f9709f77fd76.png">
 
+
+# Structural Diagram
+
+<img width="304" alt="Splant" src="https://user-images.githubusercontent.com/98833482/156869562-5a9c9395-c8e3-46a8-948d-05c2747cdc9d.png">
 
 
