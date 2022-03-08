@@ -1,14 +1,22 @@
-**REQUIREMENTS**
+# Table of contents
+## 1)Introduction
+###  i)Abstract
+### ii)Simulation steps
+## 2)Requirements
+###  i)High Level Requirements
+### ii)Low Level Requirements
+## 3)SWOT ANALYSIS
 
-**Introduction** :
 
-- **Principle**
+# 1)Introduction
+
+## i)Abstract
 
 The main objective of this system is to handle the temperature inside the vehicle(car).When the user gets into the car the button sensor gets activated and then the user gets access to turn on the heater. The temperature inside the car is controlled by the temperature sensor by giving out  the analog value to micro controller Atmega328.    
 
-- **Simulation**
-**
-` `The operation of the heat control system is coded in embedded c and the working is demonstrated using a simulation software called \*\*\*Simul IDE\*\*\*.
+## ii)Simulation
+
+The operation of the heat control system is coded in embedded c and the working is demonstrated using a simulation software called \*\*\*Simul IDE\*\*\*.
 
 This system is usually done in 3 tasks:
 
@@ -16,7 +24,11 @@ This system is usually done in 3 tasks:
 - Then the analog input from the temperature sensor is received and digitized using ADC.
 - The digitized temperature input is visualized using Pulse Width Modulation.
 
-- **High Level Requirements**
+
+# 2)Requirements
+
+
+## i)High Level Requirements
 
 |`               `ID|`          `Description|
 | - | - |
@@ -25,13 +37,13 @@ This system is usually done in 3 tasks:
 |HLR\_03|Heater|
 
 
-- **Low Level Requirements**
+## ii)Low Level Requirements
 
 |`                    `ID|`              `Description|
 | - | - |
 |LLR\_01	|Display the temperature|
 
-- **SWOT ANALYSIS**
+# 3)SWOT ANALYSIS
 
 - **Strengths**
 
