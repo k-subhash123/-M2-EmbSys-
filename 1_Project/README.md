@@ -16,6 +16,7 @@ This system is usually done in 3 tasks:
 
 
 | [![cpp_check](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/cppcheck.yml) | [![Valgrind](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/Valgrind.yml) |
+| --- | --- |
 # step 1
 
 | **OFF** | **ON** |
