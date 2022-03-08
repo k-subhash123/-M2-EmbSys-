@@ -15,7 +15,7 @@ This system is usually done in 3 tasks:
 - The digitized temperature input is visualized using Pulse Width Modulation.
 
 
-| [![cpp_check](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/cppcheck.yml) | [![Valgrind](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/Valgrind.yml) | (https://api.codiga.io/project/31748/score/svg) | https://api.codiga.io/project/31748/status/svg |
+| [![cpp_check](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/cppcheck.yml) | [![Valgrind](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/Valgrind.yml) | [Code grade](https://api.codiga.io/project/31748/score/svg) |  [Code grade](https://api.codiga.io/project/31748/status/svg) |
 | --- | --- | --- | --- |
 # step 1
 
