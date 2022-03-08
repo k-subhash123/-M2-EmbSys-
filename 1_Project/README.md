@@ -18,3 +18,6 @@ This system is usually done in 3 tasks:
 
 | **OFF** | **ON** |
 | --- | --- |
+| <img width="900" alt="sml1" src="https://user-images.githubusercontent.com/98833482/157181792-cbe5bcad-2e81-495c-a2a3-757dc04dc7b2.png"> | <img width="904" alt="sml2" src="https://user-images.githubusercontent.com/98833482/157181844-5dda8c8c-f2ff-43c7-8491-8673121d5651.png"> |
+
+
