@@ -14,6 +14,7 @@ This system is usually done in 3 tasks:
 - Then the analog input from the temperature sensor is received and digitized using ADC.
 - The digitized temperature input is visualized using Pulse Width Modulation.
 
+[![cpp_check](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/k-subhash123/M2-EmbSys/actions/workflows/cppcheck.yml)
 # step 1
 
 | **OFF** | **ON** |
