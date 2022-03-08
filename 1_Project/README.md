@@ -27,3 +27,7 @@ This system is usually done in 3 tasks:
 | --- | --- |
 | <img width="911" alt="sml3" src="https://user-images.githubusercontent.com/98833482/157182014-3d997037-56a8-419e-bab8-20d66e4b98df.png"> | <img width="909" alt="sml4" src="https://user-images.githubusercontent.com/98833482/157182054-ac228a0c-0025-40cc-8ed7-1ac319d03464.png"> |
 
+
+# step 3
+
+<img width="881" alt="sml5" src="https://user-images.githubusercontent.com/98833482/157182228-c459783f-4dc7-4196-a166-82f46243f990.png">
